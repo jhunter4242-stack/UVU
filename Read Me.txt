@@ -1,0 +1,12 @@
+Description: Razor Scooter
+Steps taken in the modeling process:
+1. Found multiple reference images.
+2. Started with a grey box version made of just cubes to get the proportions correct. 
+3. Remodeled with complex geometry. 
+Techniques and tools used:
+1. I used a lot of Boolean functions as mirrored extrusions. I linked all copied instances of an object to maintain consistency. 
+Challenges faced and how they were overcome.
+1. I remodeled the frame a few times due to proportions being messed up. 
+2. Topology of the mesh was a little messy in the end, including forgetting to add a face for the brake. 
+Are there any additional notes on texturing or shading?
+1. I textured in Substance, and it turned out pretty well, but I still wish I had spent more time fixing the topology before continuing. 
