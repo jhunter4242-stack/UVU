@@ -1,0 +1,13 @@
+Lab 4 Description
+
+I modeled an Adorondak chair, a classic chair with a long history in American furnishings. 
+
+Steps were taken in the rendering process
+1. I modeled everything in Blender. 
+2. I added materials in Substance. 
+3. I moved the work back into Blender for final render. 
+
+Techniques and tools used for rendering
+1. I used a 3 point lighting system which I have used for a lot of models.
+
+Most of my challenges came from understanding how to create parented copies of objects in Blender. Once I got the hang of it, I was editing faster than ever.
